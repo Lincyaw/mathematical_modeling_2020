@@ -1,5 +1,9 @@
 # mathematical_modeling_2020
 
+[大赛官网](http://www.mcm.edu.cn/)
+
+[大赛部分优秀论文](http://dxs.moe.gov.cn/zx/qkt/sxjm/lw/)
+
 # 情况简介
 
 因为参赛选手都是新手, 因此通过这个仓库记录学习过程
