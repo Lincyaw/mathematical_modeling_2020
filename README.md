@@ -11,3 +11,7 @@
 [了解数学建模I](https://zhuanlan.zhihu.com/p/31132246?utm_source=qq&utm_medium=social&utm_oi=897887056812998656)
 
 [了解数学建模II](https://www.zhihu.com/question/268052818/answer/550589235) 看第一个和第二个回答
+
+[latex入门](https://www.jianshu.com/p/3e842d67ada2)
+
+[latex入门](https://blog.csdn.net/Mikchy/article/details/94448707)
