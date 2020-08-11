@@ -15,3 +15,14 @@
 [latex入门](https://www.jianshu.com/p/3e842d67ada2)
 
 [latex入门](https://blog.csdn.net/Mikchy/article/details/94448707)
+
+
+
+
+
+# 第一次会议
+
+1. 分工
+2. 使用py还是matlab, 利弊
+3. 时间安排
+4. 任务安排
