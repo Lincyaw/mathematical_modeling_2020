@@ -16,12 +16,6 @@
 
 [latex入门](https://blog.csdn.net/Mikchy/article/details/94448707)
 
-[标题](链接)
-
-![名字](README.assets/test.png)
-
-![image-20200811214700134](README.assets/image-20200811214700134.png)
-
 # 第一次会议
 
 ## 分工
@@ -34,5 +28,5 @@
 
 ## 时间安排
 
-方澳阳: 每天晚上8点到10点半, 学习latex, 阅读论文
+方澳阳:  每天晚上8点到10点半, 学习latex, 阅读论文
 
